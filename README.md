@@ -33,9 +33,9 @@ To understand **EEG frequency band characteristics** and visualize how brainwave
 ### 🧾 Results
 | Visualization | Description |
 |----------------|--------------|
-| ![Topomap](https://github.com/radhikadwivedi471/EEG-Frequency-Band-Analysis/raw/main/outputs/topomap.png) | Relative band power distribution (delta, theta, alpha, beta) |
-| ![PSD](https://github.com/radhikadwivedi471/EEG-Frequency-Band-Analysis/raw/main/outputs/psd_fc5.png) | Power Spectral Density (PSD) for channel FC5 |
-| ![Alpha Envelope](https://github.com/radhikadwivedi471/EEG-Frequency-Band-Analysis/raw/main/outputs/alpha_envelope.png) | Alpha band + Hilbert envelope visualization |
+| ![Topomap](https://github.com/radhikadwivedi471/EEG-Frequency-Band-Analysis/raw/main/output/topomap.png) | Relative band power distribution (delta, theta, alpha, beta) |
+| ![PSD](https://github.com/radhikadwivedi471/EEG-Frequency-Band-Analysis/raw/main/output/psd_fc5.png) | Power Spectral Density (PSD) for channel FC5 |
+| ![Alpha Envelope](https://github.com/radhikadwivedi471/EEG-Frequency-Band-Analysis/raw/main/output/alpha_envelope.png) | Alpha band + Hilbert envelope visualization |
 
 ---
 
