@@ -1,19 +1,19 @@
 # EEG-Frequency-Band-Analysis
 
-### 🧠 Project Description
+###  Project Description
 This project analyzes EEG signals from the **PhysioNet Motor Imagery Dataset (EEGMMIDB)** using the **MNE-Python** library.  
 It extracts power in key brainwave frequency bands (delta, theta, alpha, beta) and visualizes their spatial distribution across scalp channels.
 
 ---
 
-### ⚙️ Tools & Libraries
+###  Tools & Libraries
 - **Python**
 - **MNE-Python**
 - **NumPy**, **Matplotlib**, **SciPy**
 
 ---
 
-### 🧩 Workflow
+###  Workflow
 1. **Data Loading** — EEG data downloaded via `mne.datasets.eegbci`.
 2. **Preprocessing** — Notch filter (50 Hz), band-pass (0.5–45 Hz), and resampling (128 Hz).
 3. **Power Spectral Density (PSD)** — Computed via Welch method.
@@ -25,12 +25,12 @@ It extracts power in key brainwave frequency bands (delta, theta, alpha, beta) a
 
 ---
 
-### 🎯 Objective
+###  Objective
 To understand **EEG frequency band characteristics** and visualize how brainwave power varies across different scalp regions during motor imagery tasks.
 
 ---
 
-### 🧾 Results
+###  Results
 | Visualization | Description |
 |----------------|--------------|
 | ![Topomap](https://github.com/radhikadwivedi471/EEG-Frequency-Band-Analysis/raw/main/output/topomap.png) | Relative band power distribution (delta, theta, alpha, beta) |
